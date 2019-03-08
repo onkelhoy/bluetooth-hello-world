@@ -1,0 +1,20 @@
+{
+  "name": "bluetooth-hello-world",
+  "version": "1.0.0",
+  "description": "A simple test to see and connect to a bluetooth device using the chrome bluetooth tech",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onkelhoy/bluetooth-hello-world.git"
+  },
+  "author": "Henry Pap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onkelhoy/bluetooth-hello-world/issues"
+  },
+  "homepage": "https://github.com/onkelhoy/bluetooth-hello-world#readme"
+}
