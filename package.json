@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/onkelhoy/bluetooth-hello-world/issues"
   },
-  "homepage": "https://github.com/onkelhoy/bluetooth-hello-world#readme"
+  "homepage": "https://github.com/onkelhoy/bluetooth-hello-world#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
